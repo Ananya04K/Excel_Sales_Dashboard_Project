@@ -5,16 +5,11 @@ An interactive sales dashboard built in Microsoft Excel to analyze sales perform
 
 
 **Project Overview :**
- This project focuses on transforming sales data into meaningful business insights using Microsoft Excel. The dashboard provides an overview of sales performance across different regions, countries, product categories, customer types, and sales channels.
+This project focuses on transforming sales data into meaningful business insights using Microsoft Excel. The dashboard provides an overview of sales performance across different regions, countries, product categories, customer types, and sales channels.
 It also supports the analysis of revenue, cost of goods sold (COGS), gross profit, and gross margin to help understand business performance and profitability.
 
 **Key Features :**
-Sales Performance Analysis – Analyze revenue and units sold.
-Regional Analysis – Compare sales across regions and countries.
-Product Analysis – Explore performance by product and category.
-Sales Channel Analysis – Understand sales across different channels and customer types.
-Profitability Analysis – Evaluate COGS, gross profit, and gross margin.
-Time-Based Analysis – Examine sales by month, quarter, and year.
+The dashboard provides insights into sales performance by analyzing revenue and units sold across regions, countries, product categories, and sales channels. It enables comparisons across customer types and products, tracks monthly, quarterly, and yearly sales trends, and evaluates profitability through Cost of Goods Sold (COGS), gross profit, and gross margin percentage.
 
 **Tools & Skills :**
 Microsoft Excel
